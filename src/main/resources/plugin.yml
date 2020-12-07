@@ -1,0 +1,9 @@
+name: MagicStartup
+main: com.elmakers.mine.bukkit.magicstartup.MagicStartupPlugin
+version: 1.0
+website: http://mine.elmakers.com
+author: NathanWolf
+description : A plugin to force Magic to load at startup
+depend: [Magic]
+api-version: 1.13
+load: STARTUP
